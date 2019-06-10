@@ -1,1 +1,1 @@
-I am testing the branch features.
+Hello all, I am testing the git branch features. 
