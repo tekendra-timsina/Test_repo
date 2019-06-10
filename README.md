@@ -1,2 +1,3 @@
 # Test_repo
-Repository to practice git and github in my current courrent course. 
+
+This repository contains very basic stuffs/ commands used during the basic git session of the course.
